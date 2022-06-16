@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/maven.galaxyfight.fr",
     "slug": "maven-repo",
     "status": "up",
-    "uptime": "92.88%",
+    "uptime": "92.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.45%",
-    "uptimeYear": "92.88%",
+    "uptimeYear": "92.98%",
     "time": 610,
     "timeDay": 612,
     "timeWeek": 679,
@@ -26,17 +26,19 @@
     "url": "https://thesimpleteam.net",
     "icon": "https://favicons.githubusercontent.com/thesimpleteam.net",
     "slug": "the-simple-team",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 267,
-    "timeWeek": 237,
-    "timeMonth": 190,
-    "timeYear": 185,
-    "dailyMinutesDown": {}
+    "time": 183,
+    "timeDay": 181,
+    "timeWeek": 219,
+    "timeMonth": 187,
+    "timeYear": 183,
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   }
 ]
