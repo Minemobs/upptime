@@ -26,19 +26,19 @@
     "url": "https://thesimpleteam.net",
     "icon": "https://favicons.githubusercontent.com/thesimpleteam.net",
     "slug": "the-simple-team",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 183,
-    "timeDay": 181,
-    "timeWeek": 219,
-    "timeMonth": 187,
-    "timeYear": 183,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 185,
+    "timeDay": 211,
+    "timeWeek": 225,
+    "timeMonth": 189,
+    "timeYear": 185,
     "dailyMinutesDown": {
-      "2022-06-16": 0
+      "2022-06-16": 7
     }
   }
 ]
