@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Maven Repo
-    url: https://maven.galaxyfight.fr
+    url: https://maven.thesimpleteam.net
   - name: TheSimpleTeam
     url: https://thesimpleteam.net
 
