@@ -4,8 +4,8 @@
     "url": "https://maven.thesimpleteam.net",
     "icon": "https://icons.duckduckgo.com/ip3/maven.thesimpleteam.net.ico",
     "slug": "maven-repo",
-    "status": "up",
-    "uptime": "88.68%",
+    "status": "down",
+    "uptime": "88.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 537,
     "timeYear": 575,
     "dailyMinutesDown": {
+      "2023-06-08": 0,
       "2023-03-09": 26,
       "2023-02-15": 17,
       "2023-01-11": 813,
