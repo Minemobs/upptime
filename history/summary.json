@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/maven.thesimpleteam.net.ico",
     "slug": "maven-repo",
     "status": "up",
-    "uptime": "89.28%",
+    "uptime": "89.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "88.67%",
-    "time": 575,
-    "timeDay": 700,
-    "timeWeek": 554,
-    "timeMonth": 555,
+    "time": 574,
+    "timeDay": 385,
+    "timeWeek": 548,
+    "timeMonth": 549,
     "timeYear": 569,
     "dailyMinutesDown": {
       "2023-06-17": 52,
@@ -80,11 +80,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.05%",
+    "uptimeYear": "98.08%",
     "time": 167,
-    "timeDay": 149,
-    "timeWeek": 127,
-    "timeMonth": 143,
+    "timeDay": 94,
+    "timeWeek": 131,
+    "timeMonth": 140,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2022-07-22": 1148,
@@ -95,8 +95,7 @@
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 259,
-      "2022-07-02": 24,
-      "2022-07-01": 47
+      "2022-07-02": 24
     }
   }
 ]
