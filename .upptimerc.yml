@@ -7,6 +7,8 @@ sites:
     url: https://maven.thesimpleteam.net
   - name: TheSimpleTeam
     url: https://thesimpleteam.net
+  - name: Citra-CloudSaves
+    url: https://citra.thesimpleteam.net
 
 assignees:
   - minemobs
