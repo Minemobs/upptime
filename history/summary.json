@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/maven.thesimpleteam.net.ico",
     "slug": "maven-repo",
     "status": "up",
-    "uptime": "92.26%",
+    "uptime": "92.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "94.57%",
-    "time": 553,
-    "timeDay": 495,
-    "timeWeek": 509,
-    "timeMonth": 551,
+    "uptimeYear": "94.84%",
+    "time": 554,
+    "timeDay": 531,
+    "timeWeek": 489,
+    "timeMonth": 552,
     "timeYear": 559,
     "dailyMinutesDown": {
       "2024-08-15": 40,
@@ -43,8 +43,7 @@
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
-      "2023-09-11": 1440,
-      "2023-09-10": 1440
+      "2023-09-11": 1440
     }
   },
   {
@@ -59,8 +58,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 153,
-    "timeWeek": 148,
+    "timeDay": 129,
+    "timeWeek": 155,
     "timeMonth": 147,
     "timeYear": 143,
     "dailyMinutesDown": {}
@@ -71,15 +70,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/citra.thesimpleteam.net.ico",
     "slug": "citra-cloud-saves",
     "status": "up",
-    "uptime": "94.97%",
+    "uptime": "94.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "94.57%",
+    "uptimeYear": "94.84%",
     "time": 529,
-    "timeDay": 592,
-    "timeWeek": 552,
-    "timeMonth": 547,
+    "timeDay": 480,
+    "timeWeek": 516,
+    "timeMonth": 548,
     "timeYear": 529,
     "dailyMinutesDown": {
       "2024-08-15": 40,
@@ -109,8 +108,7 @@
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
-      "2023-09-11": 1440,
-      "2023-09-10": 1440
+      "2023-09-11": 1440
     }
   }
 ]
