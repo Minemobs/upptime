@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/maven.thesimpleteam.net.ico",
     "slug": "maven-repo",
     "status": "up",
-    "uptime": "92.31%",
+    "uptime": "92.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "95.94%",
-    "time": 554,
-    "timeDay": 633,
-    "timeWeek": 516,
-    "timeMonth": 539,
+    "uptimeYear": "96.21%",
+    "time": 555,
+    "timeDay": 712,
+    "timeWeek": 563,
+    "timeMonth": 546,
     "timeYear": 559,
     "dailyMinutesDown": {
       "2024-08-15": 40,
@@ -38,8 +38,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440
+      "2023-09-16": 1440
     }
   },
   {
@@ -48,15 +47,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/thesimpleteam.net.ico",
     "slug": "the-simple-team",
     "status": "up",
-    "uptime": "99.15%",
+    "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 228,
-    "timeWeek": 173,
-    "timeMonth": 151,
+    "timeDay": 221,
+    "timeWeek": 182,
+    "timeMonth": 154,
     "timeYear": 143,
     "dailyMinutesDown": {}
   },
@@ -66,15 +65,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/citra.thesimpleteam.net.ico",
     "slug": "citra-cloud-saves",
     "status": "up",
-    "uptime": "95.02%",
+    "uptime": "95.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "95.94%",
-    "time": 529,
-    "timeDay": 725,
-    "timeWeek": 569,
-    "timeMonth": 544,
+    "uptimeYear": "96.21%",
+    "time": 530,
+    "timeDay": 692,
+    "timeWeek": 596,
+    "timeMonth": 551,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2024-08-15": 40,
@@ -99,8 +98,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440
+      "2023-09-16": 1440
     }
   }
 ]
