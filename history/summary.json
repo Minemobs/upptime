@@ -6,13 +6,13 @@
     "slug": "maven-repo",
     "status": "up",
     "uptime": "92.73%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "42.00%",
     "uptimeWeek": "82.92%",
     "uptimeMonth": "96.07%",
     "uptimeYear": "98.73%",
-    "time": 552,
-    "timeDay": 657,
-    "timeWeek": 561,
+    "time": 553,
+    "timeDay": 675,
+    "timeWeek": 588,
     "timeMonth": 525,
     "timeYear": 562,
     "dailyMinutesDown": {
@@ -31,8 +31,7 @@
       "2023-12-28": 634,
       "2023-12-27": 471,
       "2023-12-23": 252,
-      "2023-12-17": 594,
-      "2023-11-19": 572
+      "2023-12-17": 594
     }
   },
   {
@@ -46,9 +45,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 126,
-    "timeWeek": 132,
+    "time": 146,
+    "timeDay": 176,
+    "timeWeek": 140,
     "timeMonth": 148,
     "timeYear": 147,
     "dailyMinutesDown": {}
@@ -60,15 +59,15 @@
     "slug": "citra-cloud-saves",
     "status": "up",
     "uptime": "95.45%",
-    "uptimeDay": "0.64%",
+    "uptimeDay": "42.64%",
     "uptimeWeek": "82.93%",
     "uptimeMonth": "96.07%",
     "uptimeYear": "98.74%",
     "time": 527,
-    "timeDay": 486,
-    "timeWeek": 546,
+    "timeDay": 574,
+    "timeWeek": 578,
     "timeMonth": 504,
-    "timeYear": 533,
+    "timeYear": 534,
     "dailyMinutesDown": {
       "2024-11-17": 870,
       "2024-11-16": 631,
@@ -85,8 +84,7 @@
       "2023-12-28": 634,
       "2023-12-27": 470,
       "2023-12-23": 251,
-      "2023-12-17": 593,
-      "2023-11-19": 571
+      "2023-12-17": 593
     }
   }
 ]
