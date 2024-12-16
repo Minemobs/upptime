@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maven.thesimpleteam.net.ico",
     "slug": "maven-repo",
     "status": "up",
-    "uptime": "92.94%",
+    "uptime": "92.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.57%",
     "uptimeYear": "98.84%",
     "time": 551,
-    "timeDay": 519,
-    "timeWeek": 477,
-    "timeMonth": 510,
-    "timeYear": 560,
+    "timeDay": 481,
+    "timeWeek": 479,
+    "timeMonth": 511,
+    "timeYear": 559,
     "dailyMinutesDown": {
       "2024-11-17": 879,
       "2024-11-16": 622,
@@ -30,8 +30,7 @@
       "2023-12-31": 383,
       "2023-12-28": 634,
       "2023-12-27": 471,
-      "2023-12-23": 252,
-      "2023-12-17": 594
+      "2023-12-23": 252
     }
   },
   {
@@ -47,7 +46,7 @@
     "uptimeYear": "100.00%",
     "time": 147,
     "timeDay": 117,
-    "timeWeek": 134,
+    "timeWeek": 132,
     "timeMonth": 153,
     "timeYear": 149,
     "dailyMinutesDown": {}
@@ -64,10 +63,10 @@
     "uptimeMonth": "96.57%",
     "uptimeYear": "98.84%",
     "time": 527,
-    "timeDay": 488,
-    "timeWeek": 480,
+    "timeDay": 463,
+    "timeWeek": 474,
     "timeMonth": 498,
-    "timeYear": 532,
+    "timeYear": 531,
     "dailyMinutesDown": {
       "2024-11-17": 870,
       "2024-11-16": 631,
@@ -83,8 +82,7 @@
       "2023-12-31": 382,
       "2023-12-28": 634,
       "2023-12-27": 470,
-      "2023-12-23": 251,
-      "2023-12-17": 593
+      "2023-12-23": 251
     }
   }
 ]
