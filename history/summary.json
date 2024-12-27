@@ -11,9 +11,9 @@
     "uptimeMonth": "99.56%",
     "uptimeYear": "98.97%",
     "time": 551,
-    "timeDay": 487,
+    "timeDay": 464,
     "timeWeek": 556,
-    "timeMonth": 511,
+    "timeMonth": 509,
     "timeYear": 548,
     "dailyMinutesDown": {
       "2024-12-18": 192,
@@ -28,8 +28,7 @@
       "2024-01-13": 490,
       "2024-01-08": 16,
       "2024-01-05": 26,
-      "2023-12-31": 383,
-      "2023-12-28": 634
+      "2023-12-31": 383
     }
   },
   {
@@ -44,10 +43,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 192,
-    "timeWeek": 176,
+    "timeDay": 150,
+    "timeWeek": 178,
     "timeMonth": 158,
-    "timeYear": 150,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   },
   {
@@ -56,15 +55,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/citra.thesimpleteam.net.ico",
     "slug": "citra-cloud-saves",
     "status": "up",
-    "uptime": "95.75%",
+    "uptime": "95.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "98.97%",
     "time": 527,
-    "timeDay": 523,
-    "timeWeek": 526,
-    "timeMonth": 502,
+    "timeDay": 443,
+    "timeWeek": 524,
+    "timeMonth": 500,
     "timeYear": 525,
     "dailyMinutesDown": {
       "2024-12-18": 191,
@@ -79,8 +78,7 @@
       "2024-01-13": 490,
       "2024-01-08": 15,
       "2024-01-05": 25,
-      "2023-12-31": 382,
-      "2023-12-28": 634
+      "2023-12-31": 382
     }
   }
 ]
