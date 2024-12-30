@@ -1,7 +1,7 @@
 url: https://maven.thesimpleteam.net
-status: up
-code: 200
-responseTime: 492
-lastUpdated: 2024-12-29T23:08:33.244Z
+status: down
+code: 502
+responseTime: 659
+lastUpdated: 2024-12-30T19:42:34.654Z
 startTime: 2022-05-14T18:20:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
