@@ -67,19 +67,19 @@
     "url": "https://thesimpleteam.net",
     "icon": "https://icons.duckduckgo.com/ip3/thesimpleteam.net.ico",
     "slug": "the-simple-team",
-    "status": "down",
+    "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 164,
-    "timeWeek": 197,
-    "timeMonth": 195,
+    "timeDay": 158,
+    "timeWeek": 191,
+    "timeMonth": 193,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2025-11-01": 0
+      "2025-11-01": 10
     }
   },
   {
@@ -99,7 +99,7 @@
     "timeMonth": 0,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2025-11-01": 1116,
+      "2025-11-01": 1126,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
