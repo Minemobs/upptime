@@ -67,19 +67,19 @@
     "url": "https://thesimpleteam.net",
     "icon": "https://icons.duckduckgo.com/ip3/thesimpleteam.net.ico",
     "slug": "the-simple-team",
-    "status": "down",
+    "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 148,
-    "timeWeek": 178,
-    "timeMonth": 188,
+    "timeDay": 173,
+    "timeWeek": 189,
+    "timeMonth": 192,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2025-11-01": 0
+      "2025-11-01": 22
     }
   },
   {
@@ -88,7 +88,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/citra.thesimpleteam.net.ico",
     "slug": "citra-cloud-saves",
     "status": "down",
-    "uptime": "83.27%",
+    "uptime": "83.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -99,7 +99,7 @@
     "timeMonth": 0,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2025-11-01": 1229,
+      "2025-11-01": 1251,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
